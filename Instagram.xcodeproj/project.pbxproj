@@ -13,6 +13,11 @@
 		CEA303A52695B3980039B7F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEA303A32695B3980039B7F2 /* Main.storyboard */; };
 		CEA303A72695B39A0039B7F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEA303A62695B39A0039B7F2 /* Assets.xcassets */; };
 		CEA303AA2695B39A0039B7F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEA303A82695B39A0039B7F2 /* LaunchScreen.storyboard */; };
+		CEA303B42695D1A80039B7F2 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA303B32695D1A80039B7F2 /* LoginViewController.swift */; };
+		CEA303B72695D2270039B7F2 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA303B62695D2270039B7F2 /* HomeViewController.swift */; };
+		CEA303BA2695D23E0039B7F2 /* ImageSelectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA303B92695D23E0039B7F2 /* ImageSelectViewController.swift */; };
+		CEA303BD2695D2540039B7F2 /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA303BC2695D2540039B7F2 /* PostViewController.swift */; };
+		CEA303C02695D27A0039B7F2 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA303BF2695D27A0039B7F2 /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +29,11 @@
 		CEA303A62695B39A0039B7F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEA303A92695B39A0039B7F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEA303AB2695B39A0039B7F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEA303B32695D1A80039B7F2 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		CEA303B62695D2270039B7F2 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		CEA303B92695D23E0039B7F2 /* ImageSelectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSelectViewController.swift; sourceTree = "<group>"; };
+		CEA303BC2695D2540039B7F2 /* PostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
+		CEA303BF2695D27A0039B7F2 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +69,11 @@
 				CEA3039D2695B3980039B7F2 /* AppDelegate.swift */,
 				CEA3039F2695B3980039B7F2 /* SceneDelegate.swift */,
 				CEA303A12695B3980039B7F2 /* ViewController.swift */,
+				CEA303B32695D1A80039B7F2 /* LoginViewController.swift */,
+				CEA303B62695D2270039B7F2 /* HomeViewController.swift */,
+				CEA303B92695D23E0039B7F2 /* ImageSelectViewController.swift */,
+				CEA303BC2695D2540039B7F2 /* PostViewController.swift */,
+				CEA303BF2695D27A0039B7F2 /* SettingViewController.swift */,
 				CEA303A32695B3980039B7F2 /* Main.storyboard */,
 				CEA303A62695B39A0039B7F2 /* Assets.xcassets */,
 				CEA303A82695B39A0039B7F2 /* LaunchScreen.storyboard */,
@@ -137,6 +152,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEA303BA2695D23E0039B7F2 /* ImageSelectViewController.swift in Sources */,
+				CEA303B72695D2270039B7F2 /* HomeViewController.swift in Sources */,
+				CEA303BD2695D2540039B7F2 /* PostViewController.swift in Sources */,
+				CEA303C02695D27A0039B7F2 /* SettingViewController.swift in Sources */,
+				CEA303B42695D1A80039B7F2 /* LoginViewController.swift in Sources */,
 				CEA303A22695B3980039B7F2 /* ViewController.swift in Sources */,
 				CEA3039E2695B3980039B7F2 /* AppDelegate.swift in Sources */,
 				CEA303A02695B3980039B7F2 /* SceneDelegate.swift in Sources */,
